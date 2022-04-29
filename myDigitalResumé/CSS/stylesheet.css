@@ -85,3 +85,11 @@ a:visited {
 .footer p {
   font-size: 12px;
 }
+
+/* Picture element challenge */
+
+.bg-image {
+  background:url(../Images/alternateimage.jpeg);
+  background-repeat: no-repeat;
+  background-color: #fbe0c3;
+}
